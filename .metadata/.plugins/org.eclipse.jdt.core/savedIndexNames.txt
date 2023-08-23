@@ -1,0 +1,3 @@
+INDEX VERSION 1.132+C:\Users\diego\Desktop\3er Semestre\diseño de software\2do parcial\Testing\PruebasUnitariasG4\.metadata\.plugins\org.eclipse.jdt.core
+2168724849.index
+3959137331.index
